@@ -32,5 +32,3 @@ This repository contains an interactive Power BI `.pbix` report that analyzes mo
 
 ## Screenshot/Demo
 Show what tha dashboard looks like. - ![Alt text](https://github.com/Riteshkandari45/Mobile-Sales-Analysis/blob/main/Screenshot%20Sales%20analysis.jpg)
-Example: ![Dashboard Preview](https://github.com/Riteshkandari45/Mobile-Sales-Analysis/blob/main/Screenshot%20Sales%20analysis.jpg)
-Example: ![Dashboard Preview](https://github.com/Riteshkandari45/Mobile-Sales-Analysis/blob/main/Screenshot%20Same%20Period%20Last%20Year.jpg)
